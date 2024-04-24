@@ -110,17 +110,17 @@ Apache.
 :::::::::::::: {.columns align=center}
 ::: {.column width="33%"}
 
-![/var/log/httpd/error_log](image/15.png){#fig:0015 width=70%}
+![/var/log/httpd/error_log](image/15.png){#fig:0015 width=20%}
 
 :::
 ::: {.column width="33%"}
 
-![/var/log/httpd/access_log](image/16.png){#fig:0016 width=70%}
+![/var/log/httpd/access_log](image/16.png){#fig:0016 width=20%}
 
 :::
 ::: {.column width="34%"}
 
-![/var/log/audit/audit.log](image/17.png){#fig:0017 width=70%}
+![/var/log/audit/audit.log](image/17.png){#fig:0017 width=20%}
 
 :::
 ::::::::::::::
