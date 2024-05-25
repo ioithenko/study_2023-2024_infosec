@@ -50,7 +50,7 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-## Функция
+## Функции
 
 ```python
 def encrypt(text: str, key: list = None):
@@ -64,9 +64,6 @@ def encrypt(text: str, key: list = None):
     print(f"Исходный текст:", text)
     
 ```
-
-## Функция
-
 
 ```python
     encrypted_text = []
@@ -83,7 +80,7 @@ def encrypt(text: str, key: list = None):
 ## Реализация
 
 
-```python
+```pyt
 p1 = 'НаВашисходящийот1204'
 p2 = 'ВСеверныйфилиалБанка'
 key = generate_key(20)
